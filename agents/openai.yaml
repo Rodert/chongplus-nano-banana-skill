@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChongPlus Nano Banana"
+  short_description: "Generate and edit images with Nano Banana."
+  default_prompt: "Use $chongplus-nano-banana to generate an image with Nano Banana."
